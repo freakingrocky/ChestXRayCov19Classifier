@@ -1,0 +1,11 @@
+pillow
+torch
+torchvision
+numpy
+termcolor
+matplotlib
+opencv-python
+scikit-learn
+tensorflow
+PySide2
+PyQt5

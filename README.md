@@ -1,4 +1,4 @@
-# The Project's GUI is currently Incomplete
+# Classifies X-Rays based into pneumonia, covid-19, healthy.
 
 Classifies Chest X-Ray Images based into Viral Pneumonia, Covid-19 & healthy
 
